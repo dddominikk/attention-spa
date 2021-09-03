@@ -16,6 +16,7 @@ const
 		margin-top: 300;
 		font-weight:1;
 		font-family: 'Work Sans', sans-serif;
+		text-align:center;
 	}
 
 </style>
