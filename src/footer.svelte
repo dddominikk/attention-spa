@@ -1,7 +1,7 @@
 <script>
-const 
-	currentYear = new Date(Date.now()).getFullYear(),
-	footerContents = `©️2020-${currentYear}, Attention Spa, vl. Dominik Bošnjak. All rights reserved.`
+	const 
+		thisYear = new Date(Date.now()).getFullYear(),
+		footerContents = `©️2020-${thisYear}, Attention Spa, vl. Dominik Bošnjak. All rights reserved.`;
 </script>
 
 <footer>
